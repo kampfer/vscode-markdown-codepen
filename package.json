@@ -1,0 +1,25 @@
+{
+  "name": "vscode-markdown-codepen",
+  "version": "1.0.0",
+  "description": "Adds [[[codepen]]] syntax support to VS Code's built-in Markdown preview",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "codepen"
+  ],
+  "contributes": {
+    "markdown.markdownItPlugins": true
+  },
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "author": "kampfer.liao@foxmail.com",
+  "publisher": "kampfer",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it-codepen": "^1.0.1"
+  }
+}
