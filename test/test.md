@@ -1,6 +1,6 @@
 ## 123
 
-[[[pen slug-hash='MWadBWB' preview="true"]]]
+[[[pen slug-hash='MWadBWB' preview="true" user="kampfer" pen-title="Loops"]]]
 
 ```javascript
 let a = 1;
